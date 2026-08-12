@@ -132,7 +132,7 @@ A console-based AI career guidance application that processes diverse, real-worl
 ## 💼 Experience
 
 ### Backend Development Intern — Ideal World Travels
-**`[MONTH YEAR] – Present`**
+**`AUGUST 2026 – Present`**
 
 Building an **offline-first Windows desktop application** that OCRs customer identity documents (Aadhaar, PAN, Voter ID, Passport) received over WhatsApp, cross-verifies extracted fields against a reference document, and exports a structured, checklist-matching verification sheet — replacing a fully manual data-entry workflow.
 
@@ -212,15 +212,13 @@ Building an **offline-first Windows desktop application** that OCRs customer ide
 
 ---
 
-## 🏅 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sufibuildwith-py&theme=algolia&no-frame=true&no-bg=true&margin-w=12&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sufibuildwith-py&theme=algolia&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
 
 </div>
-
-<br/>
 
 ---
 
