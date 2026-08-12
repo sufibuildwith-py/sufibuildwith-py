@@ -38,7 +38,7 @@ jobs:
         with:
           username: ${{ github.repository_owner }}
           output_path: dist/github-trophies.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.TROPHY_TOKEN }}
           theme: algolia
 
       # 🚀 Deploy everything
