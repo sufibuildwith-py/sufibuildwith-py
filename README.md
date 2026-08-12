@@ -98,7 +98,7 @@ An AI-powered incident investigation copilot that analyzes production incidents 
 | **Performance** | REST API layer designed for low-latency incident-description → insight turnaround |
 | **Security** | Structured request/response boundaries between service and LLM layer |
 | **Impact** | Cuts diagnostic time for on-call engineers by structuring unstructured incident data into actionable insight |
-| **Repository** | `github.com/YOUR_GITHUB_USERNAME/sentinel` |
+| **Repository** | `not yet updated on github` |
 
 **Engineering Notes:** Built a Spring Boot REST API that integrates the Gemini API to process raw incident descriptions and return AI-assisted investigation responses. Actively expanding into **RAG-based retrieval** of historical incidents and runbooks, **multi-agent investigation workflows**, and **evidence-grounded root-cause analysis** — moving from single-shot LLM calls toward a full agentic investigation pipeline.
 
@@ -119,7 +119,7 @@ A console-based AI career guidance application that processes diverse, real-worl
 | **Performance** | 48/50 requests completed successfully → **96% successful response rate** |
 | **Security** | Isolated model/service/config layers with validated JSON serialization |
 | **Impact** | Demonstrated reliable, structured LLM integration patterns later reused in Sentinel |
-| **Repository** | `github.com/YOUR_GITHUB_USERNAME/guidein` |
+| **Repository** | `https://github.com/sufibuildwith-py/GuideIn` |
 
 **Engineering Notes:** Designed structured request/response models for JSON serialization and deserialization using Jackson, ensuring reliable communication between the application and the LLM service. Built with an object-oriented architecture — separate model, service, and configuration layers — managed via Maven.
 
