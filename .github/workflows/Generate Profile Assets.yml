@@ -37,11 +37,16 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: ${{ github.repository_owner }}
-          output_path: dist/github-trophies.svg
+          file: dist/github-trophies.svg
           token: ${{ secrets.TROPHY_TOKEN }}
           theme: algolia
+          max-cols: 7
+          max-rows: 1
+          margin-width: 12
+          no-background: true
+          no-frame: true
 
-      # 🚀 Deploy everything
+      # 🚀 Deploy generated assets
       - name: Deploy generated assets
         uses: peaceiris/actions-gh-pages@v4
         with:
