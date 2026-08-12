@@ -201,10 +201,10 @@ Building an **offline-first Windows desktop application** that OCRs customer ide
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d0221&stroke=A78BFA&ring=8B5CF6&fire=8B5CF6&currStreakLabel=A78BFA" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sufibuildwith-py&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sufibuildwith-py&theme=tokyonight&hide_border=true&background=0d0221&stroke=A78BFA&ring=8B5CF6&fire=8B5CF6&currStreakLabel=A78BFA" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=A78BFA&text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufibuildwith-py&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=A78BFA&text_color=c9d1d9" width="49%"/>
 
 </div>
 
@@ -216,7 +216,7 @@ Building an **offline-first Windows desktop application** that OCRs customer ide
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=12&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sufibuildwith-py&theme=algolia&no-frame=true&no-bg=true&margin-w=12&row=1&column=7"/>
 
 </div>
 
