@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Sufiyan%20Khan&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Backend%20Developer%20%7C%20Builder%20of%20Autonomous%20Systems&descAlignY=55&descAlign=50" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=AI+%2F+ML+Engineer+%E2%80%A2+Backend+Developer;Building+Autonomous+AI+Incident+Systems;Java+%7C+Python+%7C+Spring+Boot+%7C+LLMs+%2B+RAG;Turning+Production+Chaos+Into+Structured+Insight" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=AI+%2F+ML+Engineer+%E2%80%A2+Backend+Developer;Building+Autonomous+AI+Implemented+Systems;Java+%7C+Python+%7C+Spring+Boot+%7C+LLMs+%2B+RAG;Turning+Production+Chaos+Into+Structured+Insight" alt="Typing SVG" />
 </a>
 
 <br/>
