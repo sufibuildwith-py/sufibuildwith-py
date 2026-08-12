@@ -3,7 +3,9 @@ name: Generate Profile Assets
 on:
   schedule:
     - cron: "0 0 * * *"
+
   workflow_dispatch:
+
   push:
     branches:
       - main
@@ -19,6 +21,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      # 🐍 Generate contribution snake
       - name: Generate contribution snake
         uses: Platane/snk/svg-only@v3
         with:
@@ -29,6 +32,21 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      # 🏆 Generate GitHub trophies
+      - name: Generate GitHub trophies
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: ${{ github.repository_owner }}
+          file: dist/github-trophies.svg
+          theme: algolia
+          max-cols: 7
+          max-rows: 1
+          margin-width: 12
+          no-background: true
+          no-frame: true
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 🚀 Publish generated assets
       - name: Deploy generated assets
         uses: peaceiris/actions-gh-pages@v4
         with:
