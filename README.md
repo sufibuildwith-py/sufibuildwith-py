@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Sufiyan%20Khan&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Backend%20Developer%20%7C%20Builder%20of%20Autonomous%20Systems&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Sufiyan%20Khan&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%7C%20Backend%20Developer%20%7C%20Builder&descAlignY=55&descAlign=50" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=AI+%2F+ML+Engineer+%E2%80%A2+Backend+Developer;Building+Autonomous+AI+Implemented+Systems;Java+%7C+Python+%7C+Spring+Boot+%7C+LLMs+%2B+RAG;Turning+Production+Chaos+Into+Structured+Insight" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=AI+%2F+ML+Engineer+%E2%80%A2+Backend+Developer;Building+AI-Powered+Systems;Java+%7C+Python+%7C+Spring+Boot+%7C+LLMs+%2B+RAG;Turning+Complex+Problems+Into+Working+Systems" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -11,10 +11,17 @@
 <img src="https://img.shields.io/badge/B.Tech-AI%20%26%20Machine%20Learning-6D28D9?style=for-the-badge&labelColor=1a1a2e"/>
 <img src="https://img.shields.io/badge/📍-Kanpur,%20India-4C1D95?style=for-the-badge&labelColor=1a1a2e"/>
 
-<br/>
-<a href="https://linkedin.com/in/sufi-builds"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="mailto:sufiyan.builds.py@gmail.com"><img src="https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="https://github.com/sufibuildwith-py"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
+<br/><br/>
+
+<a href="https://linkedin.com/in/sufi-builds">
+  <img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/>
+</a>
+<a href="mailto:sufiyan.builds.py@gmail.com">
+  <img src="https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/>
+</a>
+<a href="https://github.com/sufibuildwith-py">
+  <img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/>
+</a>
 
 <br/>
 
@@ -22,14 +29,24 @@
 
 ## 👨‍💻 About Me
 
-I'm a **B.Tech Artificial Intelligence & Machine Learning** student and **backend-focused software engineer** building production-style systems at the intersection of **AI, distributed systems, and developer tooling**. My work spans **REST API engineering, LLM integration, retrieval-augmented generation, and offline-first system design** — with a strong bias toward shipping things that actually run in the real world, not just in a notebook.
+I'm a **B.Tech Artificial Intelligence & Machine Learning** student and **backend-focused developer** building practical systems at the intersection of **AI, backend engineering, and developer tooling**.
 
-I approach engineering with a **product mindset**: understanding system behaviour end-to-end, debugging relentlessly, and designing for the constraints of the environment I'm actually deploying into (offline, resource-constrained, or production-critical).
+My work focuses on **REST APIs, Java/Spring Boot, LLM integration, RAG systems, OCR pipelines, and offline-first applications** — with an emphasis on building things that work beyond a notebook or tutorial.
+
+I enjoy taking messy, real-world problems and turning them into **structured, maintainable software**.
 
 ```yaml
-role: AI Engineer & Backend Developer
-focus: [Generative AI, Backend Systems, LLM-Integrated Applications, Full-Stack Tooling]
-mindset: Product Engineering — build it so it survives contact with reality
+role: AI/ML Engineer & Backend Developer
+
+focus:
+  - Backend Systems
+  - Generative AI
+  - LLM-Integrated Applications
+  - RAG
+  - Developer Tooling
+  - Offline-First Systems
+
+mindset: "Build it so it survives contact with reality."
 ```
 
 **🎯 Open To:** AI Engineering Roles · Backend Engineering Roles · Software Engineering Internships · Open-Source Collaboration
@@ -42,21 +59,21 @@ mindset: Product Engineering — build it so it survives contact with reality
 
 <div align="center">
 
-**Languages**
+### Languages
 
 <img src="https://skillicons.dev/icons?i=java,python,cpp,typescript,js" />
 
-**Backend & Databases**
+### Backend & Databases
 
 <img src="https://skillicons.dev/icons?i=spring,nodejs,mongodb,postman" />
 
-**AI / ML & Cloud Tooling**
+### AI / ML
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,py" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 
-**Version Control & Tooling**
+### Tools & Development
 
-<img src="https://skillicons.dev/icons?i=git,github,maven,vscode,electron" />
+<img src="https://skillicons.dev/icons?i=git,github,maven,vscode,electron,docker" />
 
 </div>
 
@@ -64,18 +81,20 @@ mindset: Product Engineering — build it so it survives contact with reality
 
 ---
 
-## 🤖 AI/ML Expertise
+## 🤖 AI / ML & Engineering Focus
 
 <div align="center">
 
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| **Generative AI Integration** | ⭐⭐⭐⭐⭐ | REST-based integration of LLM services (Google Gemini API) into production-style Java/Spring Boot applications |
-| **Prompt Engineering** | ⭐⭐⭐⭐☆ | Structured prompt design for reliable, parseable AI-generated responses |
-| **Retrieval-Augmented Generation (RAG)** | ⭐⭐⭐⭐☆ | Actively building RAG-based retrieval pipelines for historical-incident and runbook grounding |
-| **NLP & LLM-Based Applications** | ⭐⭐⭐⭐☆ | LLM-driven diagnostic and career-guidance systems with structured JSON I/O |
-| **Predictive Modeling** | ⭐⭐⭐☆☆ | TensorFlow / PyTorch model development, feature engineering, and evaluation |
-| **Deep Learning** | ⭐⭐⭐☆☆ | Currently expanding into deep learning architectures for scalable AI systems |
+| Area                    | What I Work With                                                                               |
+| ----------------------- | ---------------------------------------------------------------------------------------------- |
+| **Generative AI**       | Integrating LLM APIs into Java applications and backend services                               |
+| **Prompt Engineering**  | Structured prompts and reliable, parseable AI responses                                        |
+| **RAG**                 | Retrieval pipelines for grounding LLM responses with relevant context                          |
+| **LLM Applications**    | AI-powered diagnostic, career-guidance, and developer-focused systems                          |
+| **NLP**                 | Text processing and LLM-driven applications                                                    |
+| **Deep Learning**       | TensorFlow / PyTorch and continued exploration of modern architectures                         |
+| **Backend Engineering** | REST APIs, service architecture, JSON-based communication, and system design                   |
+| **Offline Systems**     | OCR pipelines and desktop applications designed to operate without external network dependency |
 
 </div>
 
@@ -87,41 +106,52 @@ mindset: Product Engineering — build it so it survives contact with reality
 
 <details open>
 <summary><b>🛰️ Sentinel — Autonomous AI Incident Investigation Copilot</b></summary>
+
 <br/>
 
-An AI-powered incident investigation copilot that analyzes production incidents in real time and generates structured, evidence-grounded diagnostic insights for on-call engineers — reducing the manual triage burden during high-pressure incidents.
+An AI-powered incident investigation copilot designed to help engineers analyze production incidents and turn unstructured incident descriptions into **structured, actionable diagnostic insight**.
 
-| | |
-|---|---|
-| **Stack** | Java · Spring Boot · Google Gemini API · REST APIs |
-| **Scale** | Personal Project — actively in development, 2026–Present |
-| **Performance** | REST API layer designed for low-latency incident-description → insight turnaround |
-| **Security** | Structured request/response boundaries between service and LLM layer |
-| **Impact** | Cuts diagnostic time for on-call engineers by structuring unstructured incident data into actionable insight |
-| **Repository** | `not yet updated on github` |
+|                  |                                                                                 |
+| ---------------- | ------------------------------------------------------------------------------- |
+| **Stack**        | Java · Spring Boot · Google Gemini API · REST APIs                              |
+| **Status**       | 🚧 Actively in development                                                      |
+| **Focus**        | AI-assisted incident investigation                                              |
+| **Architecture** | Spring Boot REST API + LLM integration                                          |
+| **Next Phase**   | RAG · Historical Incident Retrieval · Runbook Grounding · Multi-Agent Workflows |
 
-**Engineering Notes:** Built a Spring Boot REST API that integrates the Gemini API to process raw incident descriptions and return AI-assisted investigation responses. Actively expanding into **RAG-based retrieval** of historical incidents and runbooks, **multi-agent investigation workflows**, and **evidence-grounded root-cause analysis** — moving from single-shot LLM calls toward a full agentic investigation pipeline.
+**Engineering Notes**
+
+Built a Spring Boot REST API that integrates the Gemini API to process incident descriptions and generate AI-assisted investigation responses.
+
+The system is being expanded toward **RAG-based retrieval of historical incidents and runbooks**, evidence-grounded reasoning, and multi-agent investigation workflows.
+
+> Moving from simple LLM calls toward a structured AI investigation pipeline.
 
 </details>
 
 <br/>
 
-<details>
+<details open>
 <summary><b>🧭 GuideIn — AI Career Guidance Application</b></summary>
+
 <br/>
 
-A console-based AI career guidance application that processes diverse, real-world career queries through structured LLM integration — built as a deep dive into reliable request/response architecture around a generative AI service.
+A console-based AI career guidance application built to explore **reliable LLM integration, structured request/response handling, and clean Java architecture**.
 
-| | |
-|---|---|
-| **Stack** | Java · Google Gemini API · Maven · Jackson |
-| **Scale** | Personal Project, 2024 — 50+ diverse career-related queries processed |
-| **Performance** | 48/50 requests completed successfully → **96% successful response rate** |
-| **Security** | Isolated model/service/config layers with validated JSON serialization |
-| **Impact** | Demonstrated reliable, structured LLM integration patterns later reused in Sentinel |
-| **Repository** | `https://github.com/sufibuildwith-py/GuideIn` |
+|                  |                                                                |
+| ---------------- | -------------------------------------------------------------- |
+| **Stack**        | Java · Google Gemini API · Maven · Jackson                     |
+| **Year**         | 2024                                                           |
+| **Queries**      | 50+ career-related queries                                     |
+| **Reliability**  | 48/50 successful requests → **96% success rate**               |
+| **Architecture** | Model · Service · Configuration layers                         |
+| **Repository**   | [View Repository](https://github.com/sufibuildwith-py/GuideIn) |
 
-**Engineering Notes:** Designed structured request/response models for JSON serialization and deserialization using Jackson, ensuring reliable communication between the application and the LLM service. Built with an object-oriented architecture — separate model, service, and configuration layers — managed via Maven.
+**Engineering Notes**
+
+Designed structured request/response models using Jackson for JSON serialization and deserialization.
+
+The project uses an object-oriented architecture with separated model, service, and configuration layers, managed through Maven.
 
 </details>
 
@@ -132,32 +162,41 @@ A console-based AI career guidance application that processes diverse, real-worl
 ## 💼 Experience
 
 ### Backend Development Intern — Ideal World Travels
-**`AUGUST 2026 – Present`**
 
-Building an **offline-first Windows desktop application** that OCRs customer identity documents (Aadhaar, PAN, Voter ID, Passport) received over WhatsApp, cross-verifies extracted fields against a reference document, and exports a structured, checklist-matching verification sheet — replacing a fully manual data-entry workflow.
+**`AUGUST 2026 – PRESENT`**
 
-**Scope of Work:**
-- 🔹 Architected an offline Windows desktop application (Electron + TypeScript) with zero external network dependency
-- 🔹 Implemented a fully offline OCR pipeline using Tesseract.js with bundled English + Hindi language models
-- 🔹 Built custom document parsers, including MRZ-based passport field extraction
-- 🔹 Designed an editable field-verification UI with automated Excel export matching an existing business template
-- 🔹 Debugged cross-platform Node.js/Electron packaging and OCR language-data loading for reliable offline operation on Windows
+Building an **offline-first Windows desktop application** for automating identity-document verification and reducing manual data entry.
 
-**Skills:** `Electron` `TypeScript` `Node.js` `Tesseract.js` `ExcelJS` `OCR Pipelines` `Offline System Design`
+The application processes documents such as **Aadhaar, PAN, Voter ID, and Passport**, extracts information through OCR, cross-verifies fields, and generates a structured verification sheet.
+
+### Scope of Work
+
+* 🔹 Architecting an offline Windows desktop application using **Electron + TypeScript**
+* 🔹 Building a fully offline OCR pipeline using **Tesseract.js**
+* 🔹 Working with bundled **English + Hindi OCR language models**
+* 🔹 Developing custom document parsers for structured field extraction
+* 🔹 Implementing **MRZ-based passport field extraction**
+* 🔹 Building an editable field-verification interface
+* 🔹 Generating Excel output matching an existing business workflow
+* 🔹 Debugging Electron/Node.js packaging and offline OCR language-data loading
+* 🔹 Designing the system around **zero external network dependency**
+
+**Skills:** `Electron` `TypeScript` `Node.js` `Tesseract.js` `ExcelJS` `OCR` `Offline System Design`
 
 <br/>
 
 ---
 
-## 🏆 Achievements
+## 🏆 Highlights
 
 <div align="center">
 
-| Recognition | Details |
-|---|---|
-| 🎯 96% API Reliability | GuideIn — 48/50 successful LLM-integrated requests across 50+ real-world queries |
-| 🛰️ Autonomous Systems Builder | Designed and shipped Sentinel's core Spring Boot + Gemini API investigation pipeline |
-| 🔐 Offline-First Engineering | Delivered a fully offline OCR verification pipeline with zero network dependency |
+| Highlight                        | Details                                                                            |
+| -------------------------------- | ---------------------------------------------------------------------------------- |
+| 🎯 **96% API Reliability**       | GuideIn — 48/50 successful LLM-integrated requests                                 |
+| 🛰️ **AI Systems Builder**       | Building Sentinel with Spring Boot + Gemini API                                    |
+| 🔐 **Offline-First Engineering** | Building an OCR verification pipeline designed without external network dependency |
+| 🧠 **AI + Backend Focus**        | Combining LLM applications with Java backend engineering                           |
 
 </div>
 
@@ -168,16 +207,16 @@ Building an **offline-first Windows desktop application** that OCRs customer ide
 ## 📜 Certifications
 
 **Microsoft**
-<br/>
+
 <img src="https://img.shields.io/badge/Generative%20AI%20Productivity%20Skills-6D28D9?style=flat-square&logo=microsoft&logoColor=white&labelColor=1a1a2e"/>
 
 **LinkedIn Learning**
-<br/>
+
 <img src="https://img.shields.io/badge/Calling%20REST%20APIs%20with%20Java-4C1D95?style=flat-square&logo=linkedin&logoColor=white&labelColor=1a1a2e"/>
 <img src="https://img.shields.io/badge/Large%20Language%20Models-4C1D95?style=flat-square&logo=linkedin&logoColor=white&labelColor=1a1a2e"/>
 
 **Forage**
-<br/>
+
 <img src="https://img.shields.io/badge/Wells%20Fargo%20—%20Software%20Engineering%20Job%20Simulation-5B21B6?style=flat-square&labelColor=1a1a2e"/>
 <img src="https://img.shields.io/badge/Tata%20iQ%20—%20GenAI%20Powered%20Data%20Analytics-5B21B6?style=flat-square&labelColor=1a1a2e"/>
 <img src="https://img.shields.io/badge/Deloitte%20—%20Data%20Analytics%20Job%20Simulation-5B21B6?style=flat-square&labelColor=1a1a2e"/>
@@ -190,7 +229,10 @@ Building an **offline-first Windows desktop application** that OCRs customer ide
 
 <div align="center">
 
-<a href="https://leetcode.com/u/BQsSifTdxg"><img src="https://img.shields.io/badge/LeetCode-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://leetcode.com/u/BQsSifTdxg">
+  <img src="https://img.shields.io/badge/LeetCode-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1a2e"/>
+</a>
+
 </div>
 
 <br/>
@@ -220,6 +262,8 @@ Building an **offline-first Windows desktop application** that OCRs customer ide
 
 </div>
 
+<br/>
+
 ---
 
 ## 📈 Contribution Activity
@@ -237,15 +281,19 @@ Building an **offline-first Windows desktop application** that OCRs customer ide
 ## 🐍 Contribution Snake
 
 <p align="center">
+
 <picture>
-<source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/sufibuildwith-py/sufibuildwith-py/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)"
+  srcset="https://raw.githubusercontent.com/sufibuildwith-py/sufibuildwith-py/output/github-snake-dark.svg"/>
+
 <source media="(prefers-color-scheme: light)"
 srcset="https://raw.githubusercontent.com/sufibuildwith-py/sufibuildwith-py/output/github-snake.svg"/>
+
 <img alt="GitHub Contribution Snake"
-src="https://raw.githubusercontent.com/sufibuildwith-py/sufibuildwith-py/output/github-snake.svg"/>
-</picture>
+src="https://raw.githubusercontent.com/sufibuildwith-py/sufibuildwith-py/output/github-snake.svg"/> </picture>
+
 </p>
+
 <br/>
 
 ---
@@ -255,20 +303,24 @@ src="https://raw.githubusercontent.com/sufibuildwith-py/sufibuildwith-py/output/
 ```yaml
 learning:
   - Deep Learning Architectures
-  - Retrieval-Augmented Generation (RAG) System Design
+  - Retrieval-Augmented Generation
   - Multi-Agent AI Workflows
+  - Backend System Design
 
 building:
-  - Sentinel — Autonomous AI Incident Investigation Copilot
-  - Offline-First OCR & Document Verification Pipelines
+  - Sentinel — AI Incident Investigation Copilot
+  - Offline-First OCR & Document Verification Systems
 
 exploring:
-  - Evidence-Grounded Root-Cause Analysis with LLMs
-  - Scalable Spring Boot + LLM Service Architectures
+  - Evidence-Grounded AI Systems
+  - RAG Architecture
+  - Spring Boot + LLM Service Architectures
+  - AI-Powered Developer Tooling
 
 open_to:
   - AI Engineering Roles
   - Backend Engineering Roles
+  - Software Engineering Internships
   - Open Source Collaboration
 ```
 
@@ -280,9 +332,17 @@ open_to:
 
 <div align="center">
 
-<a href="mailto:sufiyan.builds.py@gmail.com"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="https://linkedin.com/in/sufi-builds"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="https://github.com/sufibuildwith-py"><img src="https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="mailto:sufiyan.builds.py@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/>
+</a>
+
+<a href="https://linkedin.com/in/sufi-builds">
+  <img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/>
+</a>
+
+<a href="https://github.com/sufibuildwith-py">
+  <img src="https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/>
+</a>
 
 </div>
 
@@ -293,6 +353,8 @@ open_to:
 <div align="center">
 
 *"Build systems that survive contact with production."*
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
