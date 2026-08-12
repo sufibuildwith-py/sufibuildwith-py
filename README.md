@@ -240,7 +240,7 @@ Building an **offline-first Windows desktop application** that OCRs customer ide
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sufibuildwith-py/sufibuildwith-py/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/sufibuildwith-py/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
